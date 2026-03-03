@@ -1,4 +1,6 @@
 # Aca Shop - Mercado Estudiantil FES Acatlán 
+
+##Equipo:
 Alitzel Sophia Camacho Flores<br>
 Cristina Vianeth Saiz Pérez <br>
 Itzel Chavez Gonzalez <br>
